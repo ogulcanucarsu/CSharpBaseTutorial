@@ -1,0 +1,6 @@
+C:\Users\ogulc\Documents\Visual Studio 2015\Projects\AbstractVSInterface\InterfaceUse\bin\Debug\InterfaceUse.exe.config
+C:\Users\ogulc\Documents\Visual Studio 2015\Projects\AbstractVSInterface\InterfaceUse\bin\Debug\InterfaceUse.exe
+C:\Users\ogulc\Documents\Visual Studio 2015\Projects\AbstractVSInterface\InterfaceUse\bin\Debug\InterfaceUse.pdb
+C:\Users\ogulc\Documents\Visual Studio 2015\Projects\AbstractVSInterface\InterfaceUse\obj\Debug\InterfaceUse.csprojResolveAssemblyReference.cache
+C:\Users\ogulc\Documents\Visual Studio 2015\Projects\AbstractVSInterface\InterfaceUse\obj\Debug\InterfaceUse.exe
+C:\Users\ogulc\Documents\Visual Studio 2015\Projects\AbstractVSInterface\InterfaceUse\obj\Debug\InterfaceUse.pdb

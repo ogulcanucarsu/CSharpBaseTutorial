@@ -1,0 +1,6 @@
+C:\Users\ogulc\Documents\Visual Studio 2015\Projects\AbstractVSInterface\InterfaceRerefence\bin\Debug\InterfaceRerefence.exe.config
+C:\Users\ogulc\Documents\Visual Studio 2015\Projects\AbstractVSInterface\InterfaceRerefence\bin\Debug\InterfaceRerefence.exe
+C:\Users\ogulc\Documents\Visual Studio 2015\Projects\AbstractVSInterface\InterfaceRerefence\bin\Debug\InterfaceRerefence.pdb
+C:\Users\ogulc\Documents\Visual Studio 2015\Projects\AbstractVSInterface\InterfaceRerefence\obj\Debug\InterfaceRerefence.exe
+C:\Users\ogulc\Documents\Visual Studio 2015\Projects\AbstractVSInterface\InterfaceRerefence\obj\Debug\InterfaceRerefence.pdb
+C:\Users\ogulc\Documents\Visual Studio 2015\Projects\AbstractVSInterface\InterfaceRerefence\obj\Debug\InterfaceRerefence.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+C:\Users\ogulc\Documents\Visual Studio 2015\Projects\AbstractVSInterface\Constructor\bin\Debug\Constructor.exe.config
+C:\Users\ogulc\Documents\Visual Studio 2015\Projects\AbstractVSInterface\Constructor\bin\Debug\Constructor.exe
+C:\Users\ogulc\Documents\Visual Studio 2015\Projects\AbstractVSInterface\Constructor\bin\Debug\Constructor.pdb
+C:\Users\ogulc\Documents\Visual Studio 2015\Projects\AbstractVSInterface\Constructor\obj\Debug\Constructor.csprojResolveAssemblyReference.cache
+C:\Users\ogulc\Documents\Visual Studio 2015\Projects\AbstractVSInterface\Constructor\obj\Debug\Constructor.exe
+C:\Users\ogulc\Documents\Visual Studio 2015\Projects\AbstractVSInterface\Constructor\obj\Debug\Constructor.pdb
