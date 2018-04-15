@@ -1,0 +1,6 @@
+C:\Users\ogulc\Documents\Visual Studio 2015\Projects\AbstractVSInterface\AbstractFactory2\bin\Debug\AbstractFactory2.exe.config
+C:\Users\ogulc\Documents\Visual Studio 2015\Projects\AbstractVSInterface\AbstractFactory2\bin\Debug\AbstractFactory2.exe
+C:\Users\ogulc\Documents\Visual Studio 2015\Projects\AbstractVSInterface\AbstractFactory2\bin\Debug\AbstractFactory2.pdb
+C:\Users\ogulc\Documents\Visual Studio 2015\Projects\AbstractVSInterface\AbstractFactory2\obj\Debug\AbstractFactory2.csprojResolveAssemblyReference.cache
+C:\Users\ogulc\Documents\Visual Studio 2015\Projects\AbstractVSInterface\AbstractFactory2\obj\Debug\AbstractFactory2.exe
+C:\Users\ogulc\Documents\Visual Studio 2015\Projects\AbstractVSInterface\AbstractFactory2\obj\Debug\AbstractFactory2.pdb

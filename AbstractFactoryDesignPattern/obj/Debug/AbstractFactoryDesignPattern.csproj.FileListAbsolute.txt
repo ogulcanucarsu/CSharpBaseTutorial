@@ -1,0 +1,2 @@
+C:\Users\ogulc\Documents\Visual Studio 2015\Projects\AbstractVSInterface\AbstractFactoryDesignPattern\bin\Debug\AbstractFactoryDesignPattern.exe.config
+C:\Users\ogulc\Documents\Visual Studio 2015\Projects\AbstractVSInterface\AbstractFactoryDesignPattern\obj\Debug\AbstractFactoryDesignPattern.csprojResolveAssemblyReference.cache
